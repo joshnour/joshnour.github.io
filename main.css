@@ -44,6 +44,8 @@ body {
 	background-size: cover;
 	background-position: center;
 	position: relative;
+	/* Need to have the line below to resolve the issue of having the page snapshot to the middle while loading */
+	min-height: 874px
 }
 
 .overlay {

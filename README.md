@@ -12,10 +12,6 @@ Some features this website has are
 * A working contact me form (using formspree.io)
 
 
-## Bugs
-
-A bug I'm aware of is that the website sometimes snapshots to the middle of the page when loading. I am looking into this and attempting to fix this asap!
-
 ## Future
 
 Some ideas I had for the future are: 
