@@ -4,7 +4,7 @@ function Projects() {
             title: 'Portfolio Website',
             description: "My personal site built with React (you're viewing it now!).",
             tech: ['React', 'Tailwind'],
-            link: 'https://joshnour.github.io',
+            link: 'https://joshnour.com',
             repo: 'https://github.com/joshnour/joshnour.github.io',
         },
     ];
