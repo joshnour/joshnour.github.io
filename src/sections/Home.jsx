@@ -20,8 +20,7 @@ function Home() {
                 <p>
                     I’m currently open to full-time opportunities in the NYC area. Feel free to reach out!
                 </p>
-                <p> Email: 
-                </p>
+                <p>Reach out via LinkedIn.</p>
             </div>
         </section>
     );

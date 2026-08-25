@@ -4,10 +4,7 @@ function Contact() {
             <div className="max-w-full mx-auto text-center">
                 <h1 className="text-3xl font-semibold mb-6">Contact Me</h1>
                 <p className="text-gray-700">
-                    Email:{" "}
-                    <a>
-                        
-                    </a>
+                    Please reach out via LinkedIn.
                 </p>
 
                 <div className="mt-6 flex justify-center gap-4">
